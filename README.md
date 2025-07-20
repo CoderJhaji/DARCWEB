@@ -2,10 +2,6 @@
 
 A responsive and user-friendly research website built to showcase our team's work during the 6-week cybersecurity internship under the mentorship of **Dr. Rakshit Tandon**, as part of the **GPCSSI program**.
 
-![Project Screenshot](screenshot.pn<img width="1873" height="983" alt="Screenshot" src="https://github.com/user-attachments/assets/9ba3f861-713a-4b65-8754-ffcc1ca0b40a" />
-) <!-- Replace with your actual screenshot path -->
-
----
 
 ## 🚀 Live Demo
 
